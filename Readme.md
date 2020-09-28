@@ -1,7 +1,7 @@
-# Личный проект «Седона»
+﻿# Личный проект «Седона»
 
 * Студент: [Ekaterina Mubarakova](https://up.htmlacademy.ru/htmlcss/29/user/1179467).
-* Наставник: `Неизвестно`.
+* Наставник: [eugene kotov](https://htmlacademy.ru/profile/eugene_kotov).
 
 ---
 
